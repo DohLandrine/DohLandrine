@@ -16,22 +16,11 @@ I'm focused on:
 - Exploring and implementing solutions in **embedded systems**
 - Continuously improving my skills in **software and hardware integration**
 
----
-
-## Projects
-
-Check out some of my work:
-
-- **Mobile Apps:** 
-
----
-
 ## Get in Touch
 
 Feel free to reach out or collaborate on exciting projects:
 
 - Email: landrinedoh22@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/DohLandrine)
 - X: [X](https://x.com/dohlandrine)
 
 Let's create something amazing together! 🚀
