@@ -14,7 +14,7 @@ I'm focused on:
 
 - Developing modern, responsive mobile apps using **Flutter**
 - Exploring and implementing solutions in **embedded systems**
-- Continuously improving my skills in **software and hardware integration**, togethe with web Development 
+- Continuously improving my skills in **software and hardware integration**, together with web Development 
 
 ## Get in Touch
 
