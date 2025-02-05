@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Flutter Developer** with a passion for building intuitive, high-performance mobile applications. Alongside Flutter, I have a solid grasp of:
 
-- **Programming Languages:** Python, Dart, C, C++
+- **Programming Languages:** Python, Dart, C, C++, JavaScript
 - **Tools:** GitHub and version control systems
 - **Interests:** Embedded systems and integrating hardware with software solutions
 
